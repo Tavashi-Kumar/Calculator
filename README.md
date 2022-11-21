@@ -1,1 +1,1 @@
-Simple GUI for a scientific calcuator implemented thrugh Tkinter 
+Simple GUI for a scientific calculator implemented through Tkinter 
